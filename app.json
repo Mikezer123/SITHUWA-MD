@@ -1,17 +1,27 @@
 {
-  "name": "SITHUWA-MD",
-  "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/90ecbecc7dcfb93ede0fa.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Sithuwa Bot", "sithuwa","SITHUWA-MD","theme bot","multi device","baileys","Sithum Kalhara"],
+  "name": "SYAM~SER",
+  "description": "HABIBBI ONLY ENTERTAINMENT!!!",
+  "logo": "https://telegra.ph/file/62227648c11c9e2555483.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "syam~ser", "syam","SYAM~SER","theme bot","multi device","baileys","syam~ser"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME", 
-      "value": "Sithum Kalhara"
+      "value": "syam~ser"
   },
   "ALIVE_MESSAGE": {
-    "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
+    "description": " *𝚮𝚬𝐘     I AM 𝚨𝐋𝚰𝐕𝚬 .......* 🤭🖤
+                      *🍀✓[🤍⃞𝄟ꪶ𝐒͢ʏ᪳ᴀ͓ᴍ͎ ͢𝐒ᴇ͓ꪳʀ͎𖦻⃞🍓]🎈✓*
+                        *━━━━━━━━━━━* ㅤ
+                    
+                           *ERROR 8 𝟬 8✓ಠ_ಠ*                  
+ ㅤ
+                              *𝚨𝐋𝚰𝐕𝚬 .......* 
+ 
+                          𝐑𝐔𝐍𝖳𝚰𝚳𝚬 ➠ @runtime
+ㅤ                      ㅤ  
+                      *│🍀𝐍ᴀᴍᴇ 𝐄ɴᴀᴛʜᴀ 𝐏ᴜʟʟᴇᴀ*🫣 ",
      "required" :false
     },
     "AUTO_STATUS_SAVER": {
@@ -33,7 +43,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/15b1dd8aeaa47888d75d7.jpg"
+     "value": "https://telegra.ph/file/08087652550991390c54f.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -66,14 +76,14 @@
     },
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
-      "value": "."
+      "value": ".",",","!"
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94761516805"
+       "value": "13025449902"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to SITHUWA-MD Github Repo U can find the Scanner Option"
+    "value": "SITHUWA-MD;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaUFMODRYS0FwczFLSE5RaHQ2VGNEUUwwLzNENEhvekJLWkNYb2R4VEMxND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieTYxdFJvdndaaXFDMFlpYTBaVXoxbTdlNlpmVjRZVTNlcXhZMnJsWTBscz0ifX0sInNpZ25lZElkZW50aXR5S2V5Ijp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFS1ltNFVNMTFPWExSalI0WlZhTE5RQ2RCeUNvZ3FHNXB6U2NlNEVwZEhVPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJlZ0tUbzM1NUF4TmhlaFdLUE8ydHJncGFmY1dYMUl1cjlzeTZkSE8yaDEwPSJ9fSwic2lnbmVkUHJlS2V5Ijp7ImtleVBhaXIiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IldPQmIzbUxsSmNobzY3Qk5RWnNRUjRHYzR5eGdLcDdyVUJuMUxvS015a2M9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjA1VTR2M0dncGFQWlJ6U04zdjU0QkNUVnhwalhlT2FyNEVwdlh1MGhISGM9In19LCJzaWduYXR1cmUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJBVCtVTGVaZnRkMzhHU1VtdzFQcE9SWHNGeHBKdnMvbklaWTJVVzRrY1VacmxmTk5PSzVDTFEwLzlDY0RCai9BSlNwMmoyOEpzQkNkTnZjUXAza2lDdz09In0sImtleUlkIjoxfSwicmVnaXN0cmF0aW9uSWQiOjcyLCJhZHZTZWNyZXRLZXkiOiI2Z2JJc1hENFNKdzV1NEFmVHRmOTVNR3A5NmxtdzVKNTZkeFNqOGVuRUFzPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJ4cDdxWGNKclFDQzE0WFE0NzJ0UHh3IiwicGhvbmVJZCI6ImNjZjk3NzI5LTkwYmUtNGUzMC05ZThiLTA0OTVkYjNkNjhlZSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJiaEZsL0pmelpOZG4xNm1ESThyN1NZYjFWZXM9In0sInJlZ2lzdGVyZWQiOmZhbHNlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ill3VmJ5UElIbW5SR3BnYlVMbmJhZDJCYW9rUT0ifSwicmVnaXN0cmF0aW9uIjp7fSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ01iQW5UVVEvc3pFclFZWUN5QUFLQUE9IiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IlRJUnhCaTZPU21tVEgxcTF4b0VQMjRkRlVZeHQ0R3VlNGtSaEdNZG5vQ3c9IiwiYWNjb3VudFNpZ25hdHVyZSI6IlJMNUdXWUpNSDYydFJYRHZ5YWVUc3dXVndwZDJjVDNBcHRoTTExUnI5dlpheEU2VmpDTElRMEIrSmlaZ3B2OG9lVDY5RExadnU2c0hmNDdyMDhpOERBPT0iLCJkZXZpY2VTaWduYXR1cmUiOiIxb2RaemV4cXpNVEozTFc3eDdHaFhlSkc1YUJ0Nmp3N0QvSkpUTk5ZbVJ3NE5hemQ2TllpdlVBS2hUaG1RWklnZHZIdVZidjZWNTRlV204dHNkZVNBUT09In0sIm1lIjp7ImlkIjoiMTMwMjU0NDk5MDI6MjdAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoi8J2RuvCdkoDwnZGo8J2RtF/wnZG68J2RrPCdkbkifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMTMwMjU0NDk5MDI6MjdAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCVXlFY1FZdWprcHBreDlhdGNhQkQ5dUhSVkdNYmVCcm51SkVZUmpIWjZBcyJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcwNjEwODU0NX0="
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -86,7 +96,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable theme are sithuwa-md.(AVOID CHANGING)",
-     "value": "sithuwa-md"
+     "value": "syam~ser"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -99,11 +109,11 @@
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHER NAME",
-    "value": "SITHUWA:"
+    "value": "SYAM~SER:"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "SITHUWA-MD"
+    "value": "SYAM~SER"
   },
   "heroku": {
     "description": "Weather it is on heroku or not", 
