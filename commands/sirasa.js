@@ -4,8 +4,8 @@
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
  * @project_name : SITHUWA-MD
- * @author : SITHUWA <https://github.com/Sithuwa>
- * @description : SITHUWA-MD,A Multi-Device whatsapp bot.
+ * @author : SYAM~SER <https://github.com/Mikezer123>
+ * @description : SYAM~SER,A Multi-Device whatsapp bot.
  * @version 1.0.0
  **/
 
